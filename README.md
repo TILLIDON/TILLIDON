@@ -1,2 +1,2 @@
-# thakur-achyut
+# TILLIDON
 Config files for my GitHub profile.
